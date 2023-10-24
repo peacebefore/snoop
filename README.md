@@ -13,6 +13,7 @@ ___
 * Python
 * Jupyter Notebooks & Google Colab
 * Transfer learning using TensorFlow & TensorFlow Hub
+* Keras
 * NumPy
 * Pandas
 * Scikit-Learn
